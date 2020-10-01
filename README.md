@@ -1,0 +1,1 @@
+# graylog-integrations-plugin-jar
